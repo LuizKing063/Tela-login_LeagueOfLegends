@@ -1,0 +1,21 @@
+{
+  "name": "tela-login-league-of-legends",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --no-source-map --watch assets/sass:assets/css"
+  },
+  "keywords": [
+    "html5",
+    "CSS",
+    "JavaScript",
+    "League-of-Legends",
+    "Tela-de-login"
+  ],
+  "author": "Luiz Gustavo",
+  "license": "MIT",
+  "dependencies": {
+    "sass": "^1.52.2"
+  }
+}
